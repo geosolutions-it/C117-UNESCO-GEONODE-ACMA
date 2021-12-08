@@ -1,4 +1,4 @@
-# Acma
+# ACMA GeoNode Project
 
 GeoNode template project. Generates a django project with GeoNode support.
 
